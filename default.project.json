@@ -1,0 +1,16 @@
+{
+  "name": "anchor-buddy-plugin",
+  "tree": {
+    "$className": "DataModel",
+
+    "ServerScriptService": {
+      "AnchorBuddy": {
+        "$className": "Folder",
+
+        "Plugin": {
+          "$path": "src"
+        }
+      }
+    }
+  }
+}

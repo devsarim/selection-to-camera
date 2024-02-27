@@ -1,0 +1,9 @@
+# Plugin model files
+/anchor-buddy-plugin.rbxmx
+/anchor-buddy-plugin.rbxm
+
+Packages
+
+/*.lock
+
+sourcemap.json
