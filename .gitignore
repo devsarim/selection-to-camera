@@ -1,8 +1,6 @@
 # Plugin model files
-/anchor-buddy-plugin.rbxmx
-/anchor-buddy-plugin.rbxm
-
-Packages
+/selection-to-camera.rbxmx
+/selection-to-camera.rbxm
 
 /*.lock
 

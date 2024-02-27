@@ -1,10 +1,10 @@
 {
-  "name": "anchor-buddy-plugin",
+  "name": "selection-to-camera",
   "tree": {
     "$className": "DataModel",
 
     "ServerScriptService": {
-      "AnchorBuddy": {
+      "SelectionToCamera": {
         "$className": "Folder",
 
         "Plugin": {
